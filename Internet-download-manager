@@ -1,0 +1,7 @@
+IDM ( Internet Download Manager ) setup
+
+1. First Download IDM On Official Site
+2. Install IDM on Your PC
+3. Now search on Windows search "PowerShell" and Open your PowerShell
+4. Paste the command " irm https://massgrave.dev/ias | iex "
+5. Then Type "1"
